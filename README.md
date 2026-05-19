@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sourya Poudel, a 16-year-old Grade 11 student specializing in Computer Science. I am an intermediate Python programmer and a UI/UX developer, passionate about crafting seamless digital experiences. With strong skills in Adobe Photoshop, I also work on graphic design projects. Constantly learning and exploring, I aim to innovate and grow in the tech and design fields.
+I am Sourya Poudel, a driven CS student from Nepal, self-taught in software development and design, founder of GlobSoft Inc., passionate about technology, entrepreneurship, and learning broadly to create meaningful impact.
 
 
 ## 🌐 Socials:
